@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+first you have create react app by running
+### `npx create-react-app my-app`
+### `cd my-app`
+
+then copy paste given files in that folder `my-app`
+
+Now, in the project directory, you can run:
 
 ### `npm start`
 
@@ -68,3 +74,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ ## Username and password for `Chairman`
+`Username : aaa`
+`Password : aaa`
+
+## Username and password for `DUGC Coordinator`
+`Username : bbb`
+`Password : bbb`
+
+## Username and password for `Course Coordinator`
+`Username : ccc`
+`Password : ccc`
+#### (These are the Usernames and Passwords as of now)
+
+#### (The pages are not made responsive yet)
